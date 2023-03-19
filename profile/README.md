@@ -15,7 +15,7 @@
 
 
 
- 🌉 启明星工作室学习指南（[点我前往讨论区](https://github.com/Enlightened-Star-Studio/QmxGuide/discussions) ） 🌉
+ 🌉 启明星工作室学习指南（[点我前往讨论区](https://github.com/orgs/Enlightened-Star-Studio/discussions) ） 🌉
  
 [git协作学习场](https://github.com/Enlightened-Star-Studio/ctguqmx-git-study) | [工作室知识库](https://github.com/Enlightened-Star-Studio/Enlightened-Star-Studio-ctguer-learning-book) | [近期建设计划](https://github.com/Enlightened-Star-Studio/QmxGuide/discussions/4) 
  
